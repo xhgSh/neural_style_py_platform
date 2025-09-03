@@ -1,6 +1,6 @@
 # Neural Style Transfer Platform
 
-[English](#english) | [中文](#chinese)
+[English](#english) | [Chinese](#chinese)
 
 ---
 
@@ -156,7 +156,7 @@ curl -X POST http://localhost:5000/transfer \
 
 ---
 
-## 中文
+## Chinese
 
 ### 项目概述
 一个结合TensorFlow和PyTorch实现的神经风格迁移平台，提供现代化的Web界面。支持单张图片和视频的风格迁移，包含用户管理和历史记录功能。
